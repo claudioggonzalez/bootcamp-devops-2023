@@ -35,7 +35,7 @@ Imagen recomendada: golang:alpine
 
 Configura una base de datos PostgreSQL que almacene las palabras.
 
-data de inicio [sql](../wordsmith/db/words.sql)
+data de inicio [sql](./db/words.sql)
 
 ```
 Imagen recomendada: postgres:15-alpine
