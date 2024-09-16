@@ -1,4 +1,4 @@
-# IV Edición Bootcamp DevOps by RoxsRoss
+# V Edición Bootcamp DevOps by RoxsRoss
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,19 +31,7 @@
 
 Pon a prueba tus habilidades en la automatización, contenedores y más. 
 
-Este desafío consta de tres ejercicios, y deberás elegir dos de ellos para completar. 
-
-¡Vamos a explorarlos!
-
-Ejercicios Disponibles:
-
-- 295devops-travel: En este ejercicio, tendrás la oportunidad de trabajar con una aplicación LAMP (Linux, Apache, MySQL, PHP) llamada "295devops-travel". Configura un servidor web Apache, una base de datos MySQL y la aplicación PHP, usando contenedores docker. Tu objetivo es lograr la automatización de implementación y despliegue.
-
-[Repositorio](https://github.com/roxsross/bootcamp-devops-2023/blob/ejercicio2-dockeriza/295devops-travel-lamp/README.md)
-
-- 295topics-fullstack: Aquí, te enfrentarás a un desafío completo de pila completa. La aplicación "295topics" consta de un frontend y un backend. Deberás contenerizar ambos componentes utilizando Docker. Además, configurarás una base de datos MongoDB con datos iniciales y orquestarás todo el entorno utilizando Docker Compose.
-
-[Repositorio](https://github.com/roxsross/bootcamp-devops-2023/blob/ejercicio2-dockeriza/295topics-fullstack/README.md)
+Ejercicio Disponible:
 
 - 295words: En este ejercicio, trabajarás con la aplicación "295words", que presenta un frontend en Go, una API en Java y utiliza PostgreSQL como base de datos. Tu objetivo es crear un entorno de contenedor eficiente y escalable para esta aplicación. Utiliza Docker para contenerizar cada componente y configura la base de datos PostgreSQL para la escalabilidad.
 
