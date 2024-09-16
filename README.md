@@ -35,7 +35,7 @@ Ejercicio Disponible:
 
 - 295words: En este ejercicio, trabajarás con la aplicación "295words", que presenta un frontend en Go, una API en Java y utiliza PostgreSQL como base de datos. Tu objetivo es crear un entorno de contenedor eficiente y escalable para esta aplicación. Utiliza Docker para contenerizar cada componente y configura la base de datos PostgreSQL para la escalabilidad.
 
-[Repositorio](https://github.com/roxsross/bootcamp-devops-2023/blob/ejercicio2-dockeriza/295words-docker/Readme.md)
+[Repositorio](https://github.com/claudioggonzalez/bootcamp-devops-2023/blob/ejercicio2-dockeriza-solucion/295words-docker/Readme.md)
 
 ### Objetivos de DevOps:
 
